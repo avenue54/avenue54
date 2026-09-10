@@ -1,16 +1,60 @@
-## Hi there 👋
+<!-- 🖼️ Баннер — вставь сюда картинку, когда будет готова -->
+<!-- ![banner](ссылка_на_баннер) -->
 
-<!--
-**avenue54/avenue54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="1280" height="400" alt="b5e6ffecf9642a24aa35d80e963f073c" src="https://github.com/user-attachments/assets/5e9fd002-81fb-4b44-8a91-dc7acfd8b554" />
+
+
+
+
+<div align="center">
+
+### [🇬🇧 English](#english) | [🇷🇺 Русский](#русский)
+
+</div>
+
+---
+
+<a id="english"></a>
+## 🇬🇧 English
+
+### 👋 About me
+Hi, I’m Daniil, I’m 18 years old, and I live in Russia. I’m a first‑year student at Bauman Moscow State Technical University (Kaluga branch) majoring in “Computer Science and Computing Technologies” (09.03.01), with a specialization in “Intelligent Information and Computing Systems”.
+
+I’ve always been interested in how programs work “under the hood” — that’s what primarily led me to programming.
+
+### 🛠 Tech stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+- 🐍 Python — intermediate
+- ⚙️ C++ — just started
+
+### 🚀 Currently
+- 🧭 Still figuring out my specialization — exploring different directions
+- 📚 Learning to build things on my own, from scratch
+
+### 💬 Contact
+- Telegram: [@sixhoursetodeath](https://t.me/sixhoursetodeath)
+
+---
+
+<a id="русский"></a>
+## 🇷🇺 Русский
+
+### 👋 Обо мне
+Привет, я Даниил — мне 18 лет, живу в России. Учусь на 1 курсе в КФ МГТУ им. Баумана, направление 09.03.01 «Информатика и вычислительная техника», профиль «Интеллектуальные информационно-вычислительные системы» (кафедра ИУК2).
+
+Мне всегда было интересно, как устроены программы изнутри — с этого и начался интерес к программированию.
+
+### 🛠 Стек
+- 🐍 Python — средний уровень
+- ⚙️ C++ — только начал изучать
+
+### 🚀 Сейчас
+- 🧭 В поиске своего направления — пробую разное
+- 📚 Учусь писать самостоятельно, без готовых решений
+
+### 💬 Связь
+- Telegram: [@sixhoursetodeath](https://t.me/sixhoursetodeath)

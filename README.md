@@ -26,11 +26,10 @@ Hi, I’m Daniil, I’m 18 years old, and I live in Russia. I’m a first‑year
 I’ve always been interested in how programs work “under the hood” — that’s what primarily led me to programming.
 
 ### 🛠 Tech stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) — intermediate
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) — just started
 
-- 🐍 Python — intermediate
-- ⚙️ C++ — just started
+
 
 ### 🚀 Currently
 - 🧭 Still figuring out my specialization — exploring different directions
@@ -50,8 +49,9 @@ I’ve always been interested in how programs work “under the hood” — th
 Мне всегда было интересно, как устроены программы изнутри — с этого и начался интерес к программированию.
 
 ### 🛠 Стек
-- 🐍 Python — средний уровень
-- ⚙️ C++ — только начал изучать
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) — средний уровень
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) — только начал изучать
 
 ### 🚀 Сейчас
 - 🧭 В поиске своего направления — пробую разное

@@ -38,6 +38,7 @@ I’ve always been interested in how programs work “under the hood” — th
 
 ### 💬 Contact
 - Telegram: [@sixhoursetodeath](https://t.me/sixhoursetodeath)
+- Discord: [sssz69](https://discord.com/users/533384381776134153)
 
 ---
 
@@ -61,3 +62,4 @@ I’ve always been interested in how programs work “under the hood” — th
 
 ### 💬 Связь
 - Telegram: [@sixhoursetodeath](https://t.me/sixhoursetodeath)
+- Discord: [sssz69](https://discord.com/users/533384381776134153)

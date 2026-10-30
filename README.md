@@ -21,7 +21,7 @@
 ## 🇬🇧 English
 
 ### 👋 About me
-Hi, I’m Daniil, I’m 18 years old, and I live in Russia. I’m a first‑year student at Bauman Moscow State Technical University (Kaluga branch) majoring in “Computer Science and Computing Technologies” (09.03.01), with a specialization in “Intelligent Information and Computing Systems”.
+Hi, I’m Daniil, I’m 19 years old, and I live in Russia. I’m a first‑year student at Bauman Moscow State Technical University (Kaluga branch) majoring in “Computer Science and Computing Technologies” (09.03.01), with a specialization in “Intelligent Information and Computing Systems”.
 
 I’ve always been interested in how programs work “under the hood” — that’s what primarily led me to programming.
 
@@ -46,7 +46,7 @@ I’ve always been interested in how programs work “under the hood” — th
 ## 🇷🇺 Русский
 
 ### 👋 Обо мне
-Привет, я Даниил — мне 18 лет, живу в России. Учусь на 1 курсе в КФ МГТУ им. Баумана, направление 09.03.01 «Информатика и вычислительная техника», профиль «Интеллектуальные информационно-вычислительные системы» (кафедра ИУК2).
+Привет, я Даниил — мне 19 лет, живу в России. Учусь на 1 курсе в КФ МГТУ им. Баумана, направление 09.03.01 «Информатика и вычислительная техника», профиль «Интеллектуальные информационно-вычислительные системы» (кафедра ИУК2).
 
 Мне всегда было интересно, как устроены программы изнутри — с этого и начался интерес к программированию.
 
